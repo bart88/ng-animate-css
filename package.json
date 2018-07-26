@@ -1,0 +1,26 @@
+{
+  "name": "ng-animate-css",
+  "version": "1.0.0",
+  "description": "Port of animate.css keyframe animations into angular animations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bart88/ng-animate-css.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Chris Barton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bart88/ng-animate-css/issues"
+  },
+  "homepage": "https://github.com/bart88/ng-animate-css#readme",
+  "dependencies": {
+    "@angular/animations": "^6.1.0",
+    "@angular/core": "^6.1.0"
+  }
+}
